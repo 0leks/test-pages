@@ -1,6 +1,7 @@
 
+function populateStuff() {
+    stuffdiv = document.getElementById("stuff");
+    stuffdiv.innerHTML = 'stuff';
+};
 
-
-stuffdiv = document.getElementById("stuff");
-stuffdiv.innerHTML = 'stuff';
 
